@@ -1,6 +1,8 @@
 # Architecture Revolution
 
 This repository contains an advanced demo lesson where we evolve the architecture of a popular web application WordPress. The architecture journey starts with a manually built single instance, running the application and database. Throughout the stages of the demo, we will gradually evolve it into a scalable and resilient architecture.
+![Scheme](https://github.com/mirik12/aws-elastic-wordpress-revolution/blob/main/images/final-scheme.png)
+
 
 ## Stages
 
